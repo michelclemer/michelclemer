@@ -3,7 +3,7 @@
 
 
 - ⚡ Desenvolvedor Python
-- ⚡ Estudante Data Science
+- ⚡ Data Science
 
 
 <div align="left">
