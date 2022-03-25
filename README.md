@@ -2,8 +2,7 @@
 
 
 
-- ⚡ Desenvolvedor Python
-- ⚡ Data Science
+- ⚡ Desenvolvedor Back-end
 
 
 <div align="left">
