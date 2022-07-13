@@ -2,7 +2,7 @@
 
 
 
-- ⚡ Desenvolvedor Back-end
+- ⚡ Desenvolvedor Full Stack
 
 
 <div align="left">
