@@ -2,7 +2,7 @@
 
 
 
-- ⚡ Desenvolvedor Full Stack
+- ⚡ Senior Engineer
 
 
 <div align="left">
